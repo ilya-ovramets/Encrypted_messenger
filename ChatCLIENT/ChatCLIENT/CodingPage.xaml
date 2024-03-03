@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+
+             x:Class="ChatCLIENT.CodingPage"
+             Title="CodingPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- Редактор займе всю доступну висоту сторінки -->
+            <RowDefinition Height="Auto" />
+            <!-- Кнопка буде займати тільки необхідний розмір -->
+        </Grid.RowDefinitions>
+
+        <Editor x:Name="editor"
+                Placeholder="Enter your text here"
+                HeightRequest="600"
+                HorizontalOptions="Fill"
+                Grid.Row="0"/>
+        <!-- Розмістимо редактор в першому рядку -->
+
+
+
+        <Label x:Name="statusLB" Text="Write text" Grid.Row="1"
+               HorizontalOptions="Center" FontSize="Large" FontFamily="Times New Roman"
+               Margin="20,20,20,20"/>
+
+        <Button Text="To Code"
+                Clicked="CodingBTN"
+                WidthRequest="120"
+                FontSize="Medium"
+                FontAttributes="Bold"
+                FontFamily="Time New Roman"
+                HorizontalOptions="End"
+                Margin="10,10,0,0"
+                Grid.Row="1"/>
+        <!-- Розмістимо кнопку в другому рядку -->
+    </Grid>
+</ContentPage>

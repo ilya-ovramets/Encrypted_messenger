@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ChatCLIENT.MainPage">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Поле меню -->
+        <Frame Grid.Column="0" BackgroundColor="#1E1E1E" Padding="10" CornerRadius="10">
+            <!-- Вміст поля меню -->
+            <!-- Наприклад, тут може бути StackLayout з кнопками -->
+            <StackLayout>
+
+                <Button Text="Coding" Margin="0,0,0,8" Clicked="ChangeCodingButton" ImageSource="dotnet_code.png" ContentLayout="Left, 10" FontFamily="Playfair Display" FontSize="Title" FontAttributes="Bold">
+                        
+                </Button>
+                    <Button Text="Button 2" Margin="0,0,0,8"/>
+                <Button Text="Button 3" Margin="0,0,0,8"/>
+                <Button Text="Button 4" Margin="0,0,0,8"/>
+            </StackLayout>
+        </Frame>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <ScrollView Grid.Row="0" x:Name="MessagesScrollView" BackgroundColor="#2C2C2C">
+                <StackLayout x:Name="MessagesStack" Padding="10">
+                    <!-- Messages will be dynamically added here -->
+                </StackLayout>
+            </ScrollView>
+
+            <StackLayout Grid.Row="1" Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Entry x:Name="MessageEntry" Text="{Binding NewMessage, Mode=TwoWay}" 
+                   Completed="OnMessageEntryCompleted" HorizontalOptions="FillAndExpand"/>
+                <Button Text="Send" Clicked="OnSendClicked" WidthRequest="100" FontSize="Large" FontFamily="Times New Roman"/>
+            </StackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>
