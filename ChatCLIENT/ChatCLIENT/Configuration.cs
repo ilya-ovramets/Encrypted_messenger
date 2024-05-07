@@ -14,6 +14,9 @@ namespace ChatCLIENT
 
         public static string Language { get; set; } = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzАБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгґдеєжзиіїйклмнопрстуфхцчшщьюя1234567890!?,.";
 
+        public static string host { get; set; } = "127.0.0.9";
+        public static string port { get; set; } = "444";
+
 
         public static void SetValueLCV(Dictionary<char,string> dict)
         {

@@ -1,6 +1,5 @@
 ﻿using ChatCLIENT.Coding_Method;
-using Microsoft.Maui.Controls;
-using System;
+using ChatCLIENT.DAL;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
@@ -13,9 +12,13 @@ namespace ChatCLIENT
         ObservableCollection<string> messages = new ObservableCollection<string>();
         string newMessage;
 
+        WebSocketClient client = new WebSocketClient();
+
         MessageHandler handler = null;
 
         public event PropertyChangedEventHandler PropertyChanged;
+
+        private bool conectionFlag = false;
 
         public ObservableCollection<string> Messages
         {
@@ -42,7 +45,22 @@ namespace ChatCLIENT
             InitializeComponent();
             BindingContext = this;
             handler = new MessageHandler();
+            
         }
+
+        private async Task Conect()
+        {
+            client = new WebSocketClient();
+            await client.ConnectAsync(Configuration.host, int.Parse(Configuration.port));
+
+        }
+        private async Task Disconect()
+        {
+            
+            await client.CloseAsync();
+
+        }
+
 
         void ChangeCodingButton(object sender, EventArgs e)
         {
@@ -64,14 +82,13 @@ namespace ChatCLIENT
             SendMessage();
         }
 
-        void SendMessage()
+        async void SendMessage()
         {
             if (!string.IsNullOrWhiteSpace(NewMessage))
             {
                 Messages.Add(NewMessage);
                 AddMessageToStack(NewMessage);
-                AddMessageToStack(handler.ShanonAlgCode(NewMessage));
-                AddMessageToStack(handler.ShanonAlgDecode(handler.ShanonAlgCode(NewMessage)));
+                await client.SendMessageAsync(handler.ShanonAlgCode(NewMessage));
 
                 NewMessage = string.Empty;
             }
@@ -86,7 +103,8 @@ namespace ChatCLIENT
                     FontSize = 18,
                     FontFamily = "Times New Roman",
                     TextColor = Color.FromHex("#FFFFFF"),
-                    Padding = 10
+                    Padding = 10,
+
                 },
                 BackgroundColor = Color.FromHex("#6b00e9"),
                 Padding = 2,
@@ -98,6 +116,34 @@ namespace ChatCLIENT
 
             MessagesStack.Children.Add(frame);
             MessagesScrollView.ScrollToAsync(frame, ScrollToPosition.End, true); // Автоматична прокрутка до нового повідомлення
+        }
+
+        private void Button_Conect(object sender, EventArgs e)
+        {
+            if(conectionFlag == false)
+            {
+                Conect();
+                Conect_B.Background = Color.FromRgb(0, 255, 0);
+                Conect_B.Text = "Coneted";
+                conectionFlag = true;
+            }
+            else
+            {
+                Disconect();
+                Conect_B.Background = Color.FromRgb(255, 0, 0);
+                Conect_B.Text = "Disconected";
+                conectionFlag = false;
+            }
+
+        }
+
+
+
+
+        private void SettingButton(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new SettingPage());
+               
         }
     }
 }
