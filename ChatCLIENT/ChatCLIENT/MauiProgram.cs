@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
+using IeuanWalker.Maui.Switch;
 
-namespace ChatCLIENT
+namespace ChatCLIENT.PL
 {
     public static class MauiProgram
     {
@@ -9,6 +10,7 @@ namespace ChatCLIENT
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseSwitch()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
@@ -16,7 +18,7 @@ namespace ChatCLIENT
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

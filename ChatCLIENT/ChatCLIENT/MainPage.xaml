@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:switch="clr-namespace:IeuanWalker.Maui.Switch;assembly=IeuanWalker.Maui.Switch"
              x:Class="ChatCLIENT.MainPage">
+    
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="Auto" />
@@ -13,14 +15,19 @@
             <!-- Вміст поля меню -->
             <!-- Наприклад, тут може бути StackLayout з кнопками -->
             <StackLayout>
-
+                
                 <Button Text="Coding" Margin="0,0,0,8" Clicked="ChangeCodingButton" ImageSource="dotnet_code.png" ContentLayout="Left, 10" FontFamily="Playfair Display" FontSize="Title" FontAttributes="Bold">
                         
                 </Button>
-                    <Button Text="Button 2" Margin="0,0,0,8"/>
-                <Button Text="Button 3" Margin="0,0,0,8"/>
-                <Button Text="Button 4" Margin="0,0,0,8"/>
+                
+                <Button Text="Setting" Margin="0,0,0,8" Clicked="SettingButton"  ContentLayout="Left,10" FontFamily="Playfair Display" FontSize="Title" FontAttributes="Bold" />
+
+                <Label Text="Conection status" Margin="0,15,0,8" FontSize="Title" FontAttributes="Bold" ScaleY="1"/>
+                <Button x:Name="Conect_B" Text="Disconected" Clicked="Button_Conect" BackgroundColor="Red"  Margin="0,0,0,8" ContentLayout="Left,10" FontFamily="Playfair Display" FontSize="Title" FontAttributes="Bold"/>
+
+                
             </StackLayout>
+            
         </Frame>
 
         <Grid Grid.Column="1">

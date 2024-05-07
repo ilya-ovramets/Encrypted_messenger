@@ -25,8 +25,22 @@ namespace ChatCLIENT.Coding_Method.ShannonFano
         //can you can a can as a canner can can a can
         public string GetResult(string userInput)
         {
+            
+
             int start = 0;
             int caunt = GetMaxLenValue();
+
+            if (userInput.Length < caunt)
+            {
+                foreach (var item in Configuration.letterCodeValues)
+                {
+                    if (item.Value == userInput)
+                    {
+                        return item.Key.ToString(); 
+                    }
+                }
+            }
+
             int end = caunt;
             string result = "";
             bool flag = false;
@@ -46,7 +60,7 @@ namespace ChatCLIENT.Coding_Method.ShannonFano
                         result += $"{item.Key}";
                         caunt += letter.Length;
                         start = end;
-                        end += caunt;
+                        end += caunt+1;
                         flag = true;
                         break;
                     }

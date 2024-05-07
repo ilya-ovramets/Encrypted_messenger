@@ -1,4 +1,5 @@
 GoogleGson.dll
+IeuanWalker.Maui.Switch.dll
 Jsr305Binding.dll
 Microsoft.Maui.Controls.Compatibility.dll
 Microsoft.Maui.Controls.dll
@@ -150,6 +151,7 @@ androidx.browser.browser.aar
 gifdecoder.aar
 glide.aar
 GoogleGson.aar
+IeuanWalker.Maui.Switch.aar
 Jsr305Binding.aar
 Microsoft.Maui.Controls.Compatibility.aar
 Microsoft.Maui.Controls.aar
