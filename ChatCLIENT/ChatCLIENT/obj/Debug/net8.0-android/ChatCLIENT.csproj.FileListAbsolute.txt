@@ -984,7 +984,6 @@ B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\lp\
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\lp\158\jl\files.cache
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\lp\159\jl\files.cache
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\assets\IeuanWalker.Maui.Switch.dll
-B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\src\crc64a6e3debca0c2246b\CustomContentViewGroup.java
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\bin\packaged_resources
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\src\com\companyname\chatclient\R.java
@@ -1040,3 +1039,6 @@ B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\res
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\resizetizer\r\mipmap-mdpi\appicon_background.png
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\resizetizer\A52E68AE06E1868A-files.cache
 B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\resizetizer\2E90E89EAD89A570-files.cache
+B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.dll
+B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.pdb

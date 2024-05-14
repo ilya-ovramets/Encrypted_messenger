@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatCLIENT</name>
+    </assembly>
+    <members>
+        <member name="M:ChatCLIENT.Coding_Method.ShannonFano.Letter.SetInterest(System.Double)">
+            <summary>
+            Обраховує відсоток.
+            </summary>
+            <param name="all"></param>
+        </member>
+    </members>
+</doc>

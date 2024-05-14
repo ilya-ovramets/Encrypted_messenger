@@ -11,7 +11,7 @@
         </Grid.ColumnDefinitions>
 
         <!-- Поле меню -->
-        <Frame Grid.Column="0" BackgroundColor="#1E1E1E" Padding="10" CornerRadius="10">
+        <Frame Grid.Column="0" BackgroundColor="#E3E4E6" Padding="10" CornerRadius="10">
             <!-- Вміст поля меню -->
             <!-- Наприклад, тут може бути StackLayout з кнопками -->
             <StackLayout>
@@ -36,7 +36,7 @@
                 <RowDefinition Height="Auto" />
             </Grid.RowDefinitions>
 
-            <ScrollView Grid.Row="0" x:Name="MessagesScrollView" BackgroundColor="#2C2C2C">
+            <ScrollView Grid.Row="0" x:Name="MessagesScrollView" BackgroundColor="#E3E4E6">
                 <StackLayout x:Name="MessagesStack" Padding="10">
                     <!-- Messages will be dynamically added here -->
                 </StackLayout>

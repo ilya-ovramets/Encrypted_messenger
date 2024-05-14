@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\dal\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\dal\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\dal\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\dal\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\codingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\codingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\rsamethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\rsamethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\codingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\codingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shanonfanomessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shanonfanomessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shannonfano\\shannonalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shannonfano\\shannonalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shannonfano\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shannonfano\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shannonfano\\decoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shannonfano\\decoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\settingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -47,39 +55,40 @@
       "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shannonfano\\decoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shannonfano\\decoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shannonfano\\sortdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shannonfano\\sortdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\permutationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\permutationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\codingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\codingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shannonfano\\shannonalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shannonfano\\shannonalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\coding method\\shannonfano\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\coding method\\shannonfano\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatCLIENT\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\chatclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\chatclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|b:\\github\\encrypted_messenger\\chatclient\\chatclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5554D9D0-1102-4B12-BB51-987592B4B36B}|ChatCLIENT\\ChatCLIENT.csproj|solutionrelative:chatclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,22 +98,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 10,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\MainPage.xaml",
-              "RelativeDocumentMoniker": "ChatCLIENT\\MainPage.xaml",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\MainPage.xaml",
-              "RelativeToolTip": "ChatCLIENT\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-03T22:22:44.787Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -113,212 +108,79 @@
               "RelativeDocumentMoniker": "ChatCLIENT\\MainPage.xaml.cs",
               "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\MainPage.xaml.cs",
               "RelativeToolTip": "ChatCLIENT\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABZAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T22:22:52.492Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MessageHandler.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\MessageHandler.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\MessageHandler.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\MessageHandler.cs",
-              "RelativeToolTip": "ChatCLIENT\\Coding Method\\MessageHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:31:49.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShannonAlgorithm.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
-              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:30:27.829Z",
+              "WhenOpened": "2024-05-11T14:20:36.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Letter.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
-              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RSAMethod.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\RSAMethod.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\RSAMethod.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\RSAMethod.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\RSAMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:30:24.586Z",
+              "WhenOpened": "2024-05-11T16:27:04.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Decoding.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
-              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "SocketClient.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\DAL\\SocketClient.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\DAL\\SocketClient.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\DAL\\SocketClient.cs",
+              "RelativeToolTip": "ChatCLIENT\\DAL\\SocketClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:30:22.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "ChatCLIENT\\Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-05-05T15:19:03.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Xamarin.Android.Aapt2.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "ViewState": "AQIAAMAAAAAAAAAAAAAcwNUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-05T15:14:44.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "ChatCLIENT\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T15:14:34.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "ChatCLIENT\\Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T15:14:27.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "ChatCLIENT\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAvwEMAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:20:59.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SettingPage.xaml.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\SettingPage.xaml.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml.cs",
-              "RelativeToolTip": "ChatCLIENT\\SettingPage.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB0AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T01:51:06.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SettingPage.xaml",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml",
-              "RelativeDocumentMoniker": "ChatCLIENT\\SettingPage.xaml",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml",
-              "RelativeToolTip": "ChatCLIENT\\SettingPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T00:45:38.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CodingPage.xaml",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\CodingPage.xaml",
-              "RelativeDocumentMoniker": "ChatCLIENT\\CodingPage.xaml",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\CodingPage.xaml",
-              "RelativeToolTip": "ChatCLIENT\\CodingPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T00:35:53.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\AppShell.xaml",
-              "RelativeDocumentMoniker": "ChatCLIENT\\AppShell.xaml",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\AppShell.xaml",
-              "RelativeToolTip": "ChatCLIENT\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T00:35:52.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Using.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Using.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\Using.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Using.cs",
-              "RelativeToolTip": "ChatCLIENT\\Using.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:47:03.589Z",
+              "WhenOpened": "2024-05-11T19:14:59.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WebSocketClient.cs",
-              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\DAL\\WebSocketClient.cs",
-              "RelativeDocumentMoniker": "ChatCLIENT\\DAL\\WebSocketClient.cs",
-              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\DAL\\WebSocketClient.cs",
-              "RelativeToolTip": "ChatCLIENT\\DAL\\WebSocketClient.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAAUAAAA",
+              "Title": "CodingPage.xaml.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\CodingPage.xaml.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\CodingPage.xaml.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\CodingPage.xaml.cs",
+              "RelativeToolTip": "ChatCLIENT\\CodingPage.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:05:55.586Z",
+              "WhenOpened": "2024-05-12T22:24:00.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
+              "Title": "SettingPage.xaml.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\SettingPage.xaml.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml.cs",
+              "RelativeToolTip": "ChatCLIENT\\SettingPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:39:30.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodingPage.xaml",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\CodingPage.xaml",
+              "RelativeDocumentMoniker": "ChatCLIENT\\CodingPage.xaml",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\CodingPage.xaml",
+              "RelativeToolTip": "ChatCLIENT\\CodingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T20:03:06.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ChatCLIENT.csproj",
               "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\ChatCLIENT.csproj",
               "RelativeDocumentMoniker": "ChatCLIENT\\ChatCLIENT.csproj",
@@ -326,34 +188,195 @@
               "RelativeToolTip": "ChatCLIENT\\ChatCLIENT.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T22:23:57.073Z",
+              "WhenOpened": "2024-05-11T20:17:38.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\MessageHandler.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\MessageHandler.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\MessageHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:35:01.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Configuration.cs",
               "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Configuration.cs",
               "RelativeDocumentMoniker": "ChatCLIENT\\Configuration.cs",
               "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Configuration.cs",
               "RelativeToolTip": "ChatCLIENT\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T22:22:39.866Z",
+              "WhenOpened": "2024-05-11T19:14:30.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "ShanonFanoMessageHandler.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShanonFanoMessageHandler.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShanonFanoMessageHandler.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShanonFanoMessageHandler.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShanonFanoMessageHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:35:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ChatCLIENT\\MainPage.xaml",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\MainPage.xaml",
+              "RelativeToolTip": "ChatCLIENT\\MainPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T19:40:27.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingPage.xaml",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml",
+              "RelativeDocumentMoniker": "ChatCLIENT\\SettingPage.xaml",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\SettingPage.xaml",
+              "RelativeToolTip": "ChatCLIENT\\SettingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T15:39:24.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PermutationMethod.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\PermutationMethod.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\PermutationMethod.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\PermutationMethod.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\PermutationMethod.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:40:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\RSA.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\RSA.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\RSA.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\RSA.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:11:57.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SortData.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\SortData.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShannonFano\\SortData.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\SortData.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShannonFano\\SortData.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:40:48.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Decoding.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShannonFano\\Decoding.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:59:51.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\MauiProgram.cs",
               "RelativeDocumentMoniker": "ChatCLIENT\\MauiProgram.cs",
               "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\MauiProgram.cs",
               "RelativeToolTip": "ChatCLIENT\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T22:22:13.719Z",
+              "WhenOpened": "2024-05-11T16:25:15.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShannonAlgorithm.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShannonFano\\ShannonAlgorithm.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:01:37.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
+              "RelativeToolTip": "ChatCLIENT\\Coding Method\\ShannonFano\\Letter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:01:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatCLIENT",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\ChatCLIENT.csproj",
+              "RelativeDocumentMoniker": "ChatCLIENT\\ChatCLIENT.csproj",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\ChatCLIENT.csproj",
+              "RelativeToolTip": "ChatCLIENT\\ChatCLIENT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T20:13:58.568Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Using.cs",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Using.cs",
+              "RelativeDocumentMoniker": "ChatCLIENT\\Using.cs",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\Using.cs",
+              "RelativeToolTip": "ChatCLIENT\\Using.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:03:11.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ChatCLIENT\\AppShell.xaml",
+              "ToolTip": "B:\\GitHub\\Encrypted_messenger\\ChatCLIENT\\ChatCLIENT\\AppShell.xaml",
+              "RelativeToolTip": "ChatCLIENT\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T20:03:05.819Z"
             }
           ]
         }

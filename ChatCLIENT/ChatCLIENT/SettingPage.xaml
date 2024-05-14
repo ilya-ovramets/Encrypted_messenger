@@ -7,13 +7,24 @@
         <Frame Grid.Column="0" BackgroundColor="Purple" Padding="10">
             <VerticalStackLayout Spacing="10">
                 <Label Text="Connection Settings" TextColor="White" FontSize="18" FontAttributes="Bold" HorizontalOptions="Center" />
+                <Label Text="Host" TextColor="White" FontSize="18" FontAttributes="Bold" HorizontalOptions="Start" />
                 <Entry x:Name="HostEntry"  Placeholder="Host" PlaceholderColor="LightGray" BackgroundColor="#9B9CD5" FontSize="18"/>
+                <Label Text="Port" TextColor="White" FontSize="18" FontAttributes="Bold" HorizontalOptions="Start" />
                 <Entry x:Name="PortEntry" Placeholder="Port" PlaceholderColor="LightGray" BackgroundColor="#9B9CD5" FontSize="18"/>
                 <Button Text="Change" Margin="0,0,0,8" Clicked="ChengHostPort"  ContentLayout="Left,10" FontFamily="Playfair Display" FontSize="Title" FontAttributes="Bold" />
             </VerticalStackLayout>
         </Frame>
         <Frame Grid.Column="1" BackgroundColor="Purple" Padding="10">
+            <VerticalStackLayout Spacing="10">
             <Label Text="Encryption Settings" TextColor="White" FontSize="18" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center" />
+            <Label Text="List letter for chating" TextColor="White" FontSize="18" FontAttributes="Bold" HorizontalOptions="Start" />
+            <Entry x:Name="letterList"  Placeholder="Letter for Shanon" PlaceholderColor="LightGray" BackgroundColor="#9B9CD5" FontSize="18"/>
+            <Label Text="Second coding method" TextColor="White" FontSize="18" FontAttributes="Bold" HorizontalOptions="Start" VerticalOptions="Center" />
+            <Picker x:Name="CodingPicker" BackgroundColor="#9B9CD5" SelectedIndexChanged="CodingPicker_SelectedIndexChanged"/>
+            <Label Text="Value for Permutation method" TextColor="White" FontSize="18" FontAttributes="Bold" HorizontalOptions="Start" />
+            <Entry x:Name="permutNum"  Placeholder="N value" PlaceholderColor="LightGray" BackgroundColor="#9B9CD5" FontSize="18"/>
+            <Button Text="Change" Margin="0,0,0,8" Clicked="Button_Clicked"  ContentLayout="Left,10" FontFamily="Playfair Display" FontSize="Title" FontAttributes="Bold" />
+            </VerticalStackLayout>
         </Frame>
     </Grid>
 

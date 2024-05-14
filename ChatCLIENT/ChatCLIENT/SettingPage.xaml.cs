@@ -1,17 +1,48 @@
-﻿using System.Net;
+﻿using ChatCLIENT.Coding_Method;
+using System.Net;
 
 namespace ChatCLIENT;
 
 public partial class SettingPage : ContentPage
 {
-	public SettingPage()
+    Dictionary<string, MessageHandler> codingMethod = new Dictionary<string, MessageHandler>();
+	
+    private void FillDict()
+    {
+        codingMethod.Add("Permutation Method",new PermutationMethod());
+        codingMethod.Add("RSA Method", new RSAMethod());
+    }
+
+    private void FirstValue()
+    {
+        
+        foreach (var method in codingMethod)
+        {
+            if (Configuration.SecondCodingMethod.GetType() == method.Value.GetType())
+            {
+                CodingPicker.SelectedItem = method.Key;
+                break;
+            }
+        }
+
+    }
+
+
+    public SettingPage()
 	{
 		InitializeComponent();
 		HostEntry.Text = Configuration.host;
 		PortEntry.Text = Configuration.port;
+        letterList.Text = Configuration.Language;
+        permutNum.Text = Configuration.permutationNumber.ToString();
+        FillDict();
+
+        CodingPicker.ItemsSource = codingMethod.Keys.ToList();
+
+        FirstValue();
 	}
 
-    private void ChengHostPort(object sender, EventArgs e)
+    private async void ChengHostPort(object sender, EventArgs e)
     {
         string host = HostEntry.Text.Trim();
         string portString = PortEntry.Text.Trim();
@@ -19,7 +50,7 @@ public partial class SettingPage : ContentPage
         // Перевірка коректності хоста
         if (!ValidateHost(host))
         {
-            HostEntry.BackgroundColor = Color.FromHex("#F97971");
+            await DisplayAlert("Wron Host", "Pleace write corect host like 127.0.0.1", "OK");
 
             return;
         }
@@ -27,7 +58,7 @@ public partial class SettingPage : ContentPage
         // Перевірка коректності порту
         if (!ValidatePort(portString))
         {
-            PortEntry.BackgroundColor = Color.FromHex("#F97971");
+            await DisplayAlert("Wrong Port", "Pleace write corect host like 777", "OK");
 
             return;
         }
@@ -67,6 +98,26 @@ public partial class SettingPage : ContentPage
 
         // Перевірка, чи порт знаходиться в допустимому діапазоні
         return port > 0 && port <= 65535;
+    }
+
+    private void CodingPicker_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        string selectedMethod = CodingPicker.SelectedItem.ToString();
+        Configuration.SecondCodingMethod = codingMethod[selectedMethod];
+    }
+
+    private async void Button_Clicked(object sender, EventArgs e)
+    {
+        Configuration.Language = letterList.Text;
+
+        if (!int.TryParse(permutNum.Text, out int num))
+        {
+            Configuration.permutationNumber = num;
+        }
+        else
+        {
+            await DisplayAlert("Exeption num", "Pleace write corect number like 3", "OK");
+        }
     }
 
 }

@@ -70,6 +70,7 @@ namespace ChatCLIENT.Coding_Method.ShannonFano
             }
             ListLetter.Add(new Letter(elem, 1));
         }
+
         public void Worker()
         {
             for (int i = 0; i < data.Length; i++)

@@ -1,0 +1,1 @@
+B:\GitHub\Encrypted_messenger\ChatCLIENT\ChatCLIENT\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ChatCLIENT_1.0.0.0_Test\ChatCLIENT_1.0.0.0_x64.msix

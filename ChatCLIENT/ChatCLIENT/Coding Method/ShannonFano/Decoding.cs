@@ -45,6 +45,7 @@ namespace ChatCLIENT.Coding_Method.ShannonFano
             string result = "";
             bool flag = false;
             string letter;
+            int maxLen = GetMaxLenValue();
             caunt = 0;
             do
             {
@@ -60,7 +61,7 @@ namespace ChatCLIENT.Coding_Method.ShannonFano
                         result += $"{item.Key}";
                         caunt += letter.Length;
                         start = end;
-                        end += caunt+1;
+                        end += maxLen;
                         flag = true;
                         break;
                     }
